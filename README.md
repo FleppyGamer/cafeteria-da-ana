@@ -2,7 +2,7 @@
 The website I'm creating is about a small coffee shop business called "Cafeteria da Ana (Ana's Coffee Shop, in Portuguese)", where she sells typical drinks, snacks and candies of any coffee shop.
 
 # Check the project!
-Link: To be added
+Link: cafeteria-da-ana.vercel.app
 
 ## [0.1] - 2024-07-14
 ### Added:
