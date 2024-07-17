@@ -14,6 +14,16 @@ header{
     z-index: 1;
 }
 
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+
+h3,
+footer p{
+    margin: 0;
+}
+
 .nav-pills .nav-link{
     margin-right: 4px;
 } 
@@ -47,6 +57,10 @@ section{
     width: 450px;
 }
 
+.card img{
+    height: 330px;
+}
+
 #nav-tab .nav-link{
     cursor: pointer;
 }
@@ -58,6 +72,20 @@ section{
 
 iframe{
     width: 90%;
-    height: 70%;
+    height: 390px;
     border: 0;
+}
+
+footer{
+    display: flex;
+    align-content: center;
+}
+
+#social-media-icons{
+    text-align: right;
+}
+
+#social-media-icons img{
+    height: 36px;
+    margin-right: 8px;
 }
