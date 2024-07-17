@@ -19,6 +19,10 @@ header{
     align-items: center;
 }
 
+.navbar-brand img{
+    height: 64px;
+}
+
 h3,
 footer p{
     margin: 0;
@@ -88,4 +92,38 @@ footer{
 #social-media-icons img{
     height: 36px;
     margin-right: 8px;
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-brand h3.ms-3{
+        display: none;
+    }
+
+    .card img{
+        height: 458.5px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-brand h3.ms-3{
+        display: none;
+    }
+
+    .card{
+        height: 535px;
+    }
+    
+    .card img{
+        height: 265.5px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .card{
+        height: 542px;
+    }
+
+    .card img{
+        height: 248px;
+    }
 }
