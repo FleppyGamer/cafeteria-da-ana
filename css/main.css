@@ -1,5 +1,5 @@
 *{
-    z-index: 0;
+    z-index: 1;
 }
 
 header,
@@ -11,7 +11,7 @@ header{
     position: sticky;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 .navbar-brand{
@@ -20,7 +20,7 @@ header{
 }
 
 .navbar-brand img{
-    height: 64px;
+    height: 48px;
 }
 
 h3,
@@ -45,7 +45,7 @@ footer p{
 }
 
 section{
-    margin-top: 36px;
+    padding-top: 88px;
 }
 
 .sect-title{
@@ -58,7 +58,12 @@ section{
 }
 
 .carousel-img{
-    width: 450px;
+    height: 540px;
+}
+
+.card{
+    width: 95%;
+    margin: auto;
 }
 
 .card img{
