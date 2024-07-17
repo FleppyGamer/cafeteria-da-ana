@@ -4,6 +4,14 @@ The website I'm creating is about a small coffee shop business called "Cafeteria
 # Check the project!
 Link: https://cafeteria-da-ana.vercel.app
 
+## [0.2.1] - 2024-07-17
+
+### Modified:
+- Image proportions in order to create a more responsive design;
+- Now the header logo contains:
+  - Mobile view: The business icon;
+  - Desktop view: The business icon and name;
+
 ## [0.2] - 2024-07-16
 
 ### Added:
@@ -11,7 +19,7 @@ Link: https://cafeteria-da-ana.vercel.app
 - Social media icons to the footer;
 
 ### Modified:
-- The header logo now is the website title!
+- Now the header logo is just the website name!
 
 ## [0.1] - 2024-07-14
 
