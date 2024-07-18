@@ -4,6 +4,23 @@ The website I'm creating is about a small coffee shop business called "Cafeteria
 # Check the project!
 Link: https://cafeteria-da-ana.vercel.app
 
+## [1.0] - 2024-07-17
+
+## Added:
+- Images to the image carousel;
+- The store icon!
+- Color pallete;
+- Background image;
+- Background color in the area where the page content is located to make it more visible;
+- Fonts:
+  - Quicksand: For titles;
+  - Open Sans: For the rest of the body;
+
+## Modified:
+- Behavior of the carousel: The images now fade instead of sliding;
+- Margins and paddings of the sections
+- The colors of the nav buttons;
+
 ## [0.2.1] - 2024-07-17
 
 ### Modified:
