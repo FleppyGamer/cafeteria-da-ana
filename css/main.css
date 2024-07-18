@@ -81,12 +81,6 @@ section{
     border-top-right-radius: 5px;
 }
 
-#contact{
-    margin-bottom: 18px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
-
 .sect-title{
     margin-bottom: 14px;
 }
@@ -140,17 +134,24 @@ section{
     font-weight: 700;
 }
 
+#contact{
+    margin-bottom: 18px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
 #message{
     resize: none;
     height: 150px;
 }
 
-#contact{
-    column-gap: 10%;
+#maps{
+    margin: auto;
+    width: 90%;
 }
 
 iframe{
-    width: 90%;
+    width: 100%;
     height: 390px;
     border: 0;
 }
@@ -174,6 +175,11 @@ footer img{
     .card img{
         height: 458.5px;
     }
+
+    #contact h4,
+    #contact h5{
+        text-align: center;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
@@ -187,6 +193,11 @@ footer img{
     
     .card img{
         height: 265.5px;
+    }
+
+    #contact h4,
+    #contact h5{
+        text-align: center;
     }
 }
 
