@@ -6,7 +6,7 @@ Link: https://cafeteria-da-ana.vercel.app
 
 ## [1.0] - 2024-07-17
 
-## Added:
+### Added:
 - Images to the image carousel;
 - The store icon!
 - Color pallete;
@@ -16,7 +16,7 @@ Link: https://cafeteria-da-ana.vercel.app
   - Quicksand: For titles;
   - Open Sans: For the rest of the body;
 
-## Modified:
+### Modified:
 - Behavior of the carousel: The images now fade instead of sliding;
 - Margins and paddings of the sections
 - The colors of the nav buttons;
