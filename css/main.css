@@ -1,4 +1,7 @@
 *{
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
     z-index: 1;
 }
 
@@ -9,6 +12,10 @@ body{
 .container{
     padding-left: 16px;
     padding-right: 16px;
+}
+
+p{
+    font-size: 14px;
 }
 
 header,
@@ -32,10 +39,11 @@ header{
     height: 48px;
 }
 
-#store-name{
+h3, h4, h5, h6{
     font-family: "Quicksand", sans-serif;
     font-weight: 600;
 }
+
 
 #store-name,
 footer p{
@@ -126,6 +134,10 @@ section{
     height: 330px;
     border-top-left-radius: 0.375rem;
     border-top-right-radius: 0.375rem;
+}
+
+.h6{
+    font-weight: 700;
 }
 
 #message{
